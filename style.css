@@ -1,0 +1,35 @@
+::marker {
+  display: none;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* body {
+  position: static;
+} */
+/* #top {
+  background-image: url(./images/background-yop.webp);
+  height: 100vh;
+} */
+.language {
+  list-style-type: none;
+  height: 35px;
+}
+.top-button {
+  height: 50px;
+  width: 120px;
+}
+.top-search {
+  /* background: none; */
+  height: 50px;
+  width: 400px;
+  color: blanchedalmond;
+}
+
+hr {
+  color: rgb(104, 162, 162);
+  height: 10px;
+  width: 80%;
+}
